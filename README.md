@@ -38,12 +38,12 @@ or install github https://desktop.github.com/
 
 ## :memo: Developed features
 
-- Register user
-- Generate salt value
-- Store salt value
-- Encrypt password with salt value using the SHA-512 algorithm
-- Checked if the user's username already exists, to avoid duplication
-- Checked if the user's password is the same as the entered field
+- [x] Register user
+- [x] Generate salt value
+- [x] Store salt value
+- [x] Encrypt password with salt value using the SHA-512 algorithm
+- [x] Checked if the user's username already exists, to avoid duplication
+- [x] Checked if the user's password is the same as the entered field
 
 
 
