@@ -49,7 +49,7 @@ or install github https://desktop.github.com/
 
 ## :technologist:	 Author
 
-Por Ramon Becker 👋🏽 Entre em contato!
+By Ramon Becker 👋🏽 Get in touch!
 
 
 
